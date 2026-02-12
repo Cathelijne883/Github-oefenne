@@ -7,3 +7,5 @@ wijziging gedaan main 1
 import matplotlib as plt
 
 mergen met de branch 
+
+branch 2 voor merging 
