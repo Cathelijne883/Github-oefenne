@@ -6,4 +6,4 @@ wijziging gedaan main 1
 
 import matplotlib as plt
 
-mergen 
+mergen met de branch 
