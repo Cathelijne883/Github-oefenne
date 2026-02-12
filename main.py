@@ -5,3 +5,5 @@ import scipy
 wijziging gedaan main 1
 
 import matplotlib as plt
+
+mergen 
